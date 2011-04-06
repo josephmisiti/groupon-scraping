@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:groupon="http://groupon.com/ns/#" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:groupon="http://groupon.com/ns/#" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:groupon="http://groupon.com/ns/#" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:groupon="http://groupon.com/ns/#" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang='en' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:groupon='http://groupon.com/ns/#' xmlns='http://www.w3.org/1999/xhtml'>
+  <!--<![endif]-->
+  <head>
+    <link href='http://assets1.grouponcdn.com/favicon.ico?rnb1Dk6i' rel='SHORTCUT ICON' />
+    <script type="text/javascript">var Groupon = {};</script>
+  
+    <script type='text/javascript'>
+      //<![CDATA[
+        Finch = {
+      
+          onReady : function(f) {
+            this.onReadyFunctions = this.onReadyFunctions || [];
+            this.onReadyFunctions.push(f);
+          },
+      
+          execute : function() {
+            if (!this.onReadyFunctions) return;
+            for (i=0; i<this.onReadyFunctions.length; i++){
+              this.onReadyFunctions[i].call();
+            }
+          }
+        };
+      //]]>
+    </script>
+
+  
+    <!-- / normal non-cached rails mode -->
+    <script type='text/javascript'>
+      //<![CDATA[
+        Groupon.currentUser = {};
+        Groupon.currentUser.isAuthenticated = false;
+      //]]>
+    </script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        Groupon.cdnCacheable = false;
+      //]]>
+    </script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        var _groanalytics = _groanalytics || [];
+      //]]>
+    </script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        //Chartbeat
+        var _sf_startpt=(new Date()).getTime();
+      //]]>
+    </script>
+    <title>Oops! That page doesn't exist.</title>
+
+  
+    <meta content='text/html;charset=utf-8' http-equiv='Content-Type' />
+    <link href="http://feeds.feedburner.com/groupon" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link href="http://assets1.grouponcdn.com/stylesheets/base.css?VhrS5bYS" media="screen" rel="stylesheet" type="text/css" />
+  
+    <!--[if IE 6]>
+      <link href="http://assets1.grouponcdn.com/stylesheets/browser_hacks/ie6/base.css?8Q9oL3Ys" media="screen" rel="stylesheet" type="text/css" />
+    
+    <![endif]-->
+    <!--[if lte IE 7]>
+    
+    <![endif]-->
+    <!--[if IE 7]>
+    
+    <![endif]-->
+    <!--[if IE 8]>
+    
+    <![endif]-->
+  
+    <meta content='http://www.groupon.com/chicago/?utm_campaign=tasklist&amp;utm_medium=pinned-site&amp;utm_source=ie9' name='msapplication-starturl' />
+    <meta content='#76A045' name='msapplication-navbutton-color' />
+
+    <!-- Static Tasks -->
+    <meta content='name=Get $5 in Groupon Bucks;action-uri=http://www.groupon.com/chicago/?affiliate_id=msie9pin&amp;utm_campaign=tasklist&amp;utm_medium=pinned-site&amp;utm_source=ie9;icon-uri=http://assets1.grouponcdn.com/favicon.ico?rnb1Dk6i' name='msapplication-task' />
+    <meta content='name=My Groupons;action-uri=http://www.groupon.com/mygroupons?utm_medium=pinned-site&amp;utm_source=ie9&amp;utm_campaign=tasklist&amp;s=tasks;icon-uri=http://assets1.grouponcdn.com/favicon.ico?rnb1Dk6i' name='msapplication-task' />
+    <meta content='name=Groupon Blog;action-uri=http://www.groupon.com/blog?utm_medium=pinned-site&amp;utm_source=ie9&amp;utm_campaign=tasklist&amp;s=tasks;icon-uri=http://assets1.grouponcdn.com/favicon.ico?rnb1Dk6i' name='msapplication-task' />
+    <link href='http://assets1.grouponcdn.com/groupon.ico?Jzth5gNo' rel='icon' />
+  </head>
+  <body class=' '>
+      <div class='clearfix default' id='global_container'>
+        <script type='text/javascript'>
+        //<![CDATA[
+          document.body.className += " js_enabled";
+        //]]>
+      </script>
+
+      <span class="js_attribute" data-value="production" id="env" style="display:none;"></span>
+      <span class="js_attribute" data-value="false" id="mobile_device" style="display:none;"></span>
+      <div id='fb-root'></div>
+      <span class='js_attribute' data-value='7829106395' id='facebook_appid'></span>
+      <script type='text/javascript'>
+        //<![CDATA[
+          (function() {
+            var e = document.createElement('script'); e.async = true;
+            e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+            document.getElementById('fb-root').appendChild(e);
+          }());
+        //]]>
+      </script>
+      <div class='inserted_tracking_container' style='display: none'>
+      
+      </div>
+    
+      <div id='drawer'>
+
+        <div id='drawer_inner'>
+          <div id='follow_drawer' style=''>
+            <a href="#" class="hide division" id="hide_follow">hide</a>
+            <div id='follow_drawer_inner'>
+              <div class='follow_container clearfix'>
+                <div class='follow_desc'>
+                  Get the Daily Deal for:
+                </div>
+                <form action="http://www.groupon.com/subscriptions" class="new_subscription" id="new_subscription" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="QJfCYUSGQX7RD5sNkFQ/ImvY7zj9uQzVYesWJAKQMiw=" /></div>
+
+                  <ul class='subscribe clearfix'>
+                    <li class='label'>
+                      <select id='subscription_division_id' name='subscription[division_id]' style='width: 170px;'>
+                        <option value='abbotsford'>Abbotsford</option>
+                        <option value='abilene'>Abilene, TX</option>
+                        <option value='akron-canton'>Akron/Canton</option>
+                        <option value='albany-capital-region'>Albany / Capital Region</option>
+
+                        <option value='albuquerque'>Albuquerque</option>
+                        <option value='allentown-reading'>Allentown / Reading</option>
+                        <option value='amarillo'>Amarillo</option>
+                        <option value='anchorage'>Anchorage</option>
+                        <option value='ann-arbor'>Ann Arbor</option>
+                        <option value='appleton'>Appleton</option>
+
+                        <option value='asheville'>Asheville</option>
+                        <option value='athens-ga'>Athens, GA</option>
+                        <option value='atlanta'>Atlanta</option>
+                        <option value='augusta'>Augusta</option>
+                        <option value='austin'>Austin</option>
+                        <option value='bakersfield'>Bakersfield</option>
+
+                        <option value='baltimore'>Baltimore</option>
+                        <option value='barrie'>Barrie</option>
+                        <option value='baton-rouge'>Baton Rouge</option>
+                        <option value='beaumont'>Beaumont, TX</option>
+                        <option value='billings'>Billings</option>
+                        <option value='birmingham'>Birmingham</option>
+
+                        <option value='bloomington-in'>Bloomington, IN</option>
+                        <option value='boise'>Boise</option>
+                        <option value='boston'>Boston</option>
+                        <option value='buffalo'>Buffalo</option>
+                        <option value='calgary'>Calgary</option>
+                        <option value='cape-breton'>Cape Breton</option>
+
+                        <option value='cedar-rapids-iowa-city'>Cedar Rapids / Iowa City</option>
+                        <option value='central-jersey'>Central Jersey</option>
+                        <option value='charleston'>Charleston</option>
+                        <option value='charleston-wv'>Charleston, WV</option>
+                        <option value='charlotte'>Charlotte</option>
+                        <option value='chattanooga'>Chattanooga</option>
+
+                        <option selected='selected' value='chicago'>Chicago</option>
+                        <option value='cincinnati'>Cincinnati</option>
+                        <option value='cleveland'>Cleveland</option>
+                        <option value='colorado-springs'>Colorado Springs</option>
+                        <option value='columbia'>Columbia</option>
+                        <option value='columbia-mo'>Columbia, MO</option>
+
+                        <option value='columbus'>Columbus</option>
+                        <option value='columbus-ga'>Columbus GA</option>
+                        <option value='corpus-christi'>Corpus Christi</option>
+                        <option value='dallas'>Dallas</option>
+                        <option value='dayton'>Dayton</option>
+                        <option value='daytona-beach'>Daytona Beach</option>
+
+                        <option value='denver'>Denver</option>
+                        <option value='des-moines'>Des Moines</option>
+                        <option value='detroit'>Detroit</option>
+                        <option value='edmonton'>Edmonton</option>
+                        <option value='el-paso'>El Paso</option>
+                        <option value='erie'>Erie</option>
+
+                        <option value='eugene'>Eugene</option>
+                        <option value='evansville'>Evansville</option>
+                        <option value='fairfield-county'>Fairfield County</option>
+                        <option value='fayetteville'>Fayetteville</option>
+                        <option value='fort-lauderdale'>Fort Lauderdale</option>
+                        <option value='fort-myers-cape-coral'>Fort Myers / Cape Coral</option>
+
+                        <option value='fort-wayne'>Fort Wayne</option>
+                        <option value='fort-worth'>Fort Worth</option>
+                        <option value='fresno'>Fresno</option>
+                        <option value='gainesville'>Gainesville</option>
+                        <option value='grand-rapids'>Grand Rapids</option>
+                        <option value='green-bay'>Green Bay</option>
+
+                        <option value='greenville'>Greenville</option>
+                        <option value='halifax'>Halifax</option>
+                        <option value='hampton-roads'>Hampton Roads</option>
+                        <option value='harrisburg'>Harrisburg</option>
+                        <option value='hartford'>Hartford</option>
+                        <option value='honolulu'>Honolulu</option>
+
+                        <option value='houston'>Houston</option>
+                        <option value='huntsville'>Huntsville</option>
+                        <option value='indianapolis'>Indianapolis</option>
+                        <option value='inland-empire'>Inland Empire</option>
+                        <option value='jackson'>Jackson</option>
+                        <option value='jacksonville'>Jacksonville</option>
+
+                        <option value='kalamazoo'>Kalamazoo</option>
+                        <option value='kansas-city'>Kansas City</option>
+                        <option value='kelowna'>Kelowna</option>
+                        <option value='kingston'>Kingston</option>
+                        <option value='kitchener-waterloo'>Kitchener - Waterloo</option>
+                        <option value='knoxville'>Knoxville</option>
+
+                        <option value='lakeland'>Lakeland</option>
+                        <option value='lancaster-pa'>Lancaster, PA</option>
+                        <option value='lansing'>Lansing</option>
+                        <option value='las-vegas'>Las Vegas</option>
+                        <option value='lexington'>Lexington</option>
+                        <option value='lincoln'>Lincoln</option>
+
+                        <option value='little-rock'>Little Rock</option>
+                        <option value='london'>London, ON</option>
+                        <option value='long-island'>Long Island</option>
+                        <optgroup label='Los Angeles'>
+                          <option value='los-angeles:los-angeles'>Los Angeles</option>
+                          <option value='los-angeles:san-gabriel-valley'>San Gabriel Valley</option>
+
+                          <option value='los-angeles:san-fernando-valley'>San Fernando Valley</option>
+                        </optgroup>
+                        <option value='louisville'>Louisville</option>
+                        <option value='lubbock'>Lubbock</option>
+                        <option value='macon'>Macon</option>
+                        <option value='madison'>Madison</option>
+
+                        <option value='memphis'>Memphis</option>
+                        <option value='miami'>Miami</option>
+                        <option value='midland-odessa'>Midland / Odessa</option>
+                        <option value='milwaukee'>Milwaukee</option>
+                        <option value='minneapolis-stpaul'>Minneapolis / St Paul</option>
+                        <option value='mobile-baldwin-county'>Mobile / Baldwin County</option>
+
+                        <option value='modesto'>Modesto</option>
+                        <option value='montgomery'>Montgomery</option>
+                        <option value='napa-sonoma'>Napa / Sonoma</option>
+                        <option value='naples'>Naples</option>
+                        <option value='nashville'>Nashville</option>
+                        <option value='new-orleans'>New Orleans</option>
+
+                        <option value='new-york'>New York City</option>
+                        <option value='north-jersey'>North Jersey</option>
+                        <option value='ocala'>Ocala</option>
+                        <option value='ogden'>Ogden</option>
+                        <option value='oklahoma-city'>Oklahoma City</option>
+                        <option value='omaha'>Omaha</option>
+
+                        <option value='orange-county'>Orange County</option>
+                        <option value='orlando'>Orlando</option>
+                        <option value='ottawa'>Ottawa</option>
+                        <option value='palm-beach'>Palm Beach</option>
+                        <option value='pensacola'>Pensacola</option>
+                        <option value='philadelphia'>Philadelphia</option>
+
+                        <option value='phoenix'>Phoenix</option>
+                        <option value='piedmont-triad'>Piedmont Triad</option>
+                        <option value='pittsburgh'>Pittsburgh</option>
+                        <option value='portland'>Portland</option>
+                        <option value='portland-me'>Portland, ME</option>
+                        <option value='providence'>Providence</option>
+
+                        <option value='raleigh-durham'>Raleigh / Durham</option>
+                        <option value='regina'>Regina</option>
+                        <option value='reno'>Reno</option>
+                        <option value='richmond'>Richmond</option>
+                        <option value='rio-grande-valley'>Rio Grande Valley</option>
+                        <option value='roanoke'>Roanoke</option>
+
+                        <option value='rochester'>Rochester</option>
+                        <option value='rockford'>Rockford</option>
+                        <option value='sacramento'>Sacramento</option>
+                        <option value='salem-or'>Salem OR</option>
+                        <option value='salt-lake-city'>Salt Lake City</option>
+                        <option value='san-angelo'>San Angelo</option>
+
+                        <option value='san-antonio'>San Antonio</option>
+                        <option value='san-diego'>San Diego</option>
+                        <optgroup label='San Francisco'>
+                          <option value='san-francisco:san-francisco'>San Francisco</option>
+                          <option value='san-francisco:east-bay'>East Bay</option>
+                        </optgroup>
+                        <option value='san-jose'>San Jose</option>
+
+                        <option value='santa-barbara'>Santa Barbara</option>
+                        <option value='santa-clarita'>Santa Clarita</option>
+                        <option value='santa-cruz'>Santa Cruz</option>
+                        <option value='santa-fe'>Santa Fe</option>
+                        <option value='saskatoon'>Saskatoon</option>
+                        <option value='savannah-hilton-head'>Savannah/Hilton Head</option>
+
+                        <optgroup label='Seattle'>
+                          <option value='seattle:tacoma'>Tacoma</option>
+                          <option value='seattle:seattle'>Seattle</option>
+                        </optgroup>
+                        <option value='shreveport-bossier'>Shreveport/Bossier</option>
+                        <option value='sioux-falls'>Sioux Falls</option>
+                        <option value='south-bend'>South Bend</option>
+
+                        <option value='albany-ga'>Southern Georgia</option>
+                        <option value='spokane-coeur-dalene'>Spokane / Coeur d'Alene</option>
+                        <option value='springfield-mo'>Springfield MO</option>
+                        <option value='springfield-ma'>Springfield, MA</option>
+                        <option value='stcatharines-niagara'>St Catharines-Niagara</option>
+                        <option value='st-johns'>St John's</option>
+
+                        <option value='stlouis'>St Louis</option>
+                        <option value='stockton'>Stockton</option>
+                        <option value='sudbury'>Sudbury</option>
+                        <option value='syracuse'>Syracuse</option>
+                        <option value='tallahassee'>Tallahassee</option>
+                        <option value='tampa-bay-area'>Tampa Bay Area</option>
+
+                        <option value='toledo'>Toledo</option>
+                        <option value='topeka-lawrence'>Topeka / Lawrence</option>
+                        <option value='greater-toronto-area'>Toronto (GTA)</option>
+                        <option value='tucson'>Tucson</option>
+                        <option value='tulsa'>Tulsa</option>
+                        <option value='vancouver'>Vancouver</option>
+
+                        <option value='ventura-county'>Ventura County</option>
+                        <option value='victoria'>Victoria</option>
+                        <optgroup label='Washington DC'>
+                          <option value='washington-dc:dc-metro'>The District</option>
+                          <option value='washington-dc:northern-virginia'>Northern Virginia</option>
+                          <option value='washington-dc:montgomery-county'>Montgomery County</option>
+
+                        </optgroup>
+                        <option value='westchester-county'>Westchester County</option>
+                        <option value='wichita'>Wichita</option>
+                        <option value='wilmington-newark'>Wilmington-Newark</option>
+                        <option value='windsor'>Windsor</option>
+                        <option value='winnipeg'>Winnipeg</option>
+
+                        <option value='worcester'>Worcester</option>
+                        <option value='york-pa'>York, PA</option>
+                        <option value='youngstown'>Youngstown</option>
+                      </select>
+                      <div class="field subscription_email_address text"><input class="email text_field prompting_field validate-email required input" id="subscription_email_address" name="subscription[email_address]" size="30" title="Enter your email address" type="text" /></div>
+                    </li>
+                    <li>
+
+                      <input class='button cta_btn small G_event E-Subscribe_Email_Header disabled_on_submit' type='submit' value='Subscribe' />
+                    </li>
+                  </ul>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id='header_container'>
+        <div id='header'>
+          <div id='header_inner'>
+            <h1 id='logo'>
+              <a href="/" class="G_event E-LogoNH_click_grouponLogo" title="Groupon: Collective Buying Power">Groupon: Collective Buying Power</a>
+            </h1>
+            <div class='layer2 clearfix'>
+              <ul id='header_nav'>
+
+                <li class=''>
+                  <a href="/" class="G_event E-GobalTopNavNH_TodaysDeal_OopsThatPageDoesntExist todays_deal ">Featured Deal</a>
+                </li>
+                <li>
+                  <a href="/chicago/all">All Deals</a>
+                  <a href="/chicago/all" class="new_badge">NEW</a>
+                </li>
+
+                <li><a href="/learn" class="G_event E-GobalTopNavNH_HowWorks_OopsThatPageDoesntExist">How It Works</a></li>
+              </ul>
+              <ul class='account_links'>
+                <li class='sign_in'><a href="https://www.groupon.com/login" class="G_event E-GobalTopNavNH_click_signIn">Sign In</a></li>
+                <li><a href="https://www.groupon.com/users/new" class="G_event E-GobalTopNavNH_click_signUp">Sign Up</a></li>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div id='alerts_content'>
+      
+      </div>
+    
+      <div class='clearfix' id='main'>
+        <div id='content'>
+          <div class='doc'>
+          <div class="box"><div class="box_top"></div><div class="box_content clearfix"><div class='page_header' style='clear: left; background: #fff;'>
+
+            <h2>Oops! That page doesn't exist.</h2>
+          </div>
+          <div class='page_content'>
+            <p>To get to where you (probably) wanted to go, select your city from the list below, or <a href="http://www.groupon.com/contact-us">contact us</a> to let us know if you think you got here because of an error.</p>
+            <div class='clearfix'>
+              <ul class='float33'>
+
+                <li><a href="/abbotsford/">Abbotsford</a></li>
+                <li><a href="/abilene/">Abilene, TX</a></li>
+                <li><a href="/akron-canton/">Akron/Canton</a></li>
+                <li><a href="/albany-capital-region/">Albany / Capital Region</a></li>
+                <li><a href="/albuquerque/">Albuquerque</a></li>
+                <li><a href="/allentown-reading/">Allentown / Reading</a></li>
+
+                <li><a href="/amarillo/">Amarillo</a></li>
+                <li><a href="/anchorage/">Anchorage</a></li>
+                <li><a href="/ann-arbor/">Ann Arbor</a></li>
+                <li><a href="/appleton/">Appleton</a></li>
+                <li><a href="/asheville/">Asheville</a></li>
+                <li><a href="/athens-ga/">Athens, GA</a></li>
+
+                <li><a href="/atlanta/">Atlanta</a></li>
+                <li><a href="/augusta/">Augusta</a></li>
+                <li><a href="/austin/">Austin</a></li>
+                <li><a href="/bakersfield/">Bakersfield</a></li>
+                <li><a href="/baltimore/">Baltimore</a></li>
+                <li><a href="/barrie/">Barrie</a></li>
+
+                <li><a href="/baton-rouge/">Baton Rouge</a></li>
+                <li><a href="/beaumont/">Beaumont, TX</a></li>
+                <li><a href="/billings/">Billings</a></li>
+                <li><a href="/birmingham/">Birmingham</a></li>
+                <li><a href="/bloomington-in/">Bloomington, IN</a></li>
+                <li><a href="/boise/">Boise</a></li>
+
+                <li><a href="/boston/">Boston</a></li>
+                <li><a href="/buffalo/">Buffalo</a></li>
+                <li><a href="/calgary/">Calgary</a></li>
+                <li><a href="/cape-breton/">Cape Breton</a></li>
+                <li><a href="/cedar-rapids-iowa-city/">Cedar Rapids / Iowa City</a></li>
+                <li><a href="/central-jersey/">Central Jersey</a></li>
+
+                <li><a href="/charleston/">Charleston</a></li>
+                <li><a href="/charleston-wv/">Charleston, WV</a></li>
+                <li><a href="/charlotte/">Charlotte</a></li>
+                <li><a href="/chattanooga/">Chattanooga</a></li>
+                <li><a href="/chicago/">Chicago</a></li>
+                <li><a href="/cincinnati/">Cincinnati</a></li>
+
+                <li><a href="/cleveland/">Cleveland</a></li>
+                <li><a href="/colorado-springs/">Colorado Springs</a></li>
+                <li><a href="/columbia/">Columbia</a></li>
+                <li><a href="/columbia-mo/">Columbia, MO</a></li>
+                <li><a href="/columbus/">Columbus</a></li>
+                <li><a href="/columbus-ga/">Columbus GA</a></li>
+
+                <li><a href="/corpus-christi/">Corpus Christi</a></li>
+                <li><a href="/dallas/">Dallas</a></li>
+                <li><a href="/dayton/">Dayton</a></li>
+                <li><a href="/daytona-beach/">Daytona Beach</a></li>
+                <li><a href="/denver/">Denver</a></li>
+                <li><a href="/des-moines/">Des Moines</a></li>
+
+                <li><a href="/detroit/">Detroit</a></li>
+                <li><a href="/edmonton/">Edmonton</a></li>
+                <li><a href="/el-paso/">El Paso</a></li>
+                <li><a href="/erie/">Erie</a></li>
+                <li><a href="/eugene/">Eugene</a></li>
+                <li><a href="/evansville/">Evansville</a></li>
+
+                <li><a href="/fairfield-county/">Fairfield County</a></li>
+                <li><a href="/fayetteville/">Fayetteville</a></li>
+                <li><a href="/fort-lauderdale/">Fort Lauderdale</a></li>
+                <li><a href="/fort-myers-cape-coral/">Fort Myers / Cape Coral</a></li>
+                <li><a href="/fort-wayne/">Fort Wayne</a></li>
+                <li><a href="/fort-worth/">Fort Worth</a></li>
+
+                <li><a href="/fresno/">Fresno</a></li>
+                <li><a href="/gainesville/">Gainesville</a></li>
+                <li><a href="/grand-rapids/">Grand Rapids</a></li>
+                <li><a href="/green-bay/">Green Bay</a></li>
+                <li><a href="/greenville/">Greenville</a></li>
+                <li><a href="/halifax/">Halifax</a></li>
+
+                <li><a href="/hampton-roads/">Hampton Roads</a></li>
+                <li><a href="/harrisburg/">Harrisburg</a></li>
+                <li><a href="/hartford/">Hartford</a></li>
+                <li><a href="/honolulu/">Honolulu</a></li>
+                <li><a href="/houston/">Houston</a></li>
+                <li><a href="/huntsville/">Huntsville</a></li>
+
+                <li><a href="/indianapolis/">Indianapolis</a></li>
+                <li><a href="/inland-empire/">Inland Empire</a></li>
+                <li><a href="/jackson/">Jackson</a></li>
+                <li><a href="/jacksonville/">Jacksonville</a></li>
+                <li><a href="/kalamazoo/">Kalamazoo</a></li>
+                <li><a href="/kansas-city/">Kansas City</a></li>
+
+                <li><a href="/kelowna/">Kelowna</a></li>
+                <li><a href="/kingston/">Kingston</a></li>
+                <li><a href="/kitchener-waterloo/">Kitchener - Waterloo</a></li>
+                <li><a href="/knoxville/">Knoxville</a></li>
+                <li><a href="/lakeland/">Lakeland</a></li>
+                <li><a href="/lancaster-pa/">Lancaster, PA</a></li>
+
+                <li><a href="/lansing/">Lansing</a></li>
+                <li><a href="/las-vegas/">Las Vegas</a></li>
+                <li><a href="/lexington/">Lexington</a></li>
+                <li><a href="/lincoln/">Lincoln</a></li>
+                <li><a href="/little-rock/">Little Rock</a></li>
+                <li><a href="/london/">London, ON</a></li>
+
+                <li><a href="/long-island/">Long Island</a></li>
+              </ul>
+              <ul class='float33'>
+                <li><a href="/los-angeles/">Los Angeles</a></li>
+                <li><a href="/louisville/">Louisville</a></li>
+                <li><a href="/lubbock/">Lubbock</a></li>
+                <li><a href="/macon/">Macon</a></li>
+
+                <li><a href="/madison/">Madison</a></li>
+                <li><a href="/memphis/">Memphis</a></li>
+                <li><a href="/miami/">Miami</a></li>
+                <li><a href="/midland-odessa/">Midland / Odessa</a></li>
+                <li><a href="/milwaukee/">Milwaukee</a></li>
+                <li><a href="/minneapolis-stpaul/">Minneapolis / St Paul</a></li>
+
+                <li><a href="/mobile-baldwin-county/">Mobile / Baldwin County</a></li>
+                <li><a href="/modesto/">Modesto</a></li>
+                <li><a href="/montgomery/">Montgomery</a></li>
+                <li><a href="/napa-sonoma/">Napa / Sonoma</a></li>
+                <li><a href="/naples/">Naples</a></li>
+                <li><a href="/nashville/">Nashville</a></li>
+
+                <li><a href="/new-orleans/">New Orleans</a></li>
+                <li><a href="/new-york/">New York City</a></li>
+                <li><a href="/north-jersey/">North Jersey</a></li>
+                <li><a href="/ocala/">Ocala</a></li>
+                <li><a href="/ogden/">Ogden</a></li>
+                <li><a href="/oklahoma-city/">Oklahoma City</a></li>
+
+                <li><a href="/omaha/">Omaha</a></li>
+                <li><a href="/orange-county/">Orange County</a></li>
+                <li><a href="/orlando/">Orlando</a></li>
+                <li><a href="/ottawa/">Ottawa</a></li>
+                <li><a href="/palm-beach/">Palm Beach</a></li>
+                <li><a href="/pensacola/">Pensacola</a></li>
+
+                <li><a href="/philadelphia/">Philadelphia</a></li>
+                <li><a href="/phoenix/">Phoenix</a></li>
+                <li><a href="/piedmont-triad/">Piedmont Triad</a></li>
+                <li><a href="/pittsburgh/">Pittsburgh</a></li>
+                <li><a href="/portland/">Portland</a></li>
+                <li><a href="/portland-me/">Portland, ME</a></li>
+
+                <li><a href="/providence/">Providence</a></li>
+                <li><a href="/raleigh-durham/">Raleigh / Durham</a></li>
+                <li><a href="/regina/">Regina</a></li>
+                <li><a href="/reno/">Reno</a></li>
+                <li><a href="/richmond/">Richmond</a></li>
+                <li><a href="/rio-grande-valley/">Rio Grande Valley</a></li>
+
+                <li><a href="/roanoke/">Roanoke</a></li>
+                <li><a href="/rochester/">Rochester</a></li>
+                <li><a href="/rockford/">Rockford</a></li>
+                <li><a href="/sacramento/">Sacramento</a></li>
+                <li><a href="/salem-or/">Salem OR</a></li>
+                <li><a href="/salt-lake-city/">Salt Lake City</a></li>
+
+                <li><a href="/san-angelo/">San Angelo</a></li>
+                <li><a href="/san-antonio/">San Antonio</a></li>
+                <li><a href="/san-diego/">San Diego</a></li>
+                <li><a href="/san-francisco/">San Francisco</a></li>
+                <li><a href="/san-jose/">San Jose</a></li>
+                <li><a href="/santa-barbara/">Santa Barbara</a></li>
+
+                <li><a href="/santa-clarita/">Santa Clarita</a></li>
+                <li><a href="/santa-cruz/">Santa Cruz</a></li>
+                <li><a href="/santa-fe/">Santa Fe</a></li>
+                <li><a href="/saskatoon/">Saskatoon</a></li>
+                <li><a href="/savannah-hilton-head/">Savannah/Hilton Head</a></li>
+                <li><a href="/seattle/">Seattle</a></li>
+
+                <li><a href="/shreveport-bossier/">Shreveport/Bossier</a></li>
+                <li><a href="/sioux-falls/">Sioux Falls</a></li>
+                <li><a href="/south-bend/">South Bend</a></li>
+                <li><a href="/albany-ga/">Southern Georgia</a></li>
+                <li><a href="/spokane-coeur-dalene/">Spokane / Coeur d'Alene</a></li>
+                <li><a href="/springfield-mo/">Springfield MO</a></li>
+
+                <li><a href="/springfield-ma/">Springfield, MA</a></li>
+                <li><a href="/stcatharines-niagara/">St Catharines-Niagara</a></li>
+                <li><a href="/st-johns/">St John's</a></li>
+                <li><a href="/stlouis/">St Louis</a></li>
+                <li><a href="/stockton/">Stockton</a></li>
+                <li><a href="/sudbury/">Sudbury</a></li>
+
+                <li><a href="/syracuse/">Syracuse</a></li>
+                <li><a href="/tallahassee/">Tallahassee</a></li>
+                <li><a href="/tampa-bay-area/">Tampa Bay Area</a></li>
+                <li><a href="/toledo/">Toledo</a></li>
+                <li><a href="/topeka-lawrence/">Topeka / Lawrence</a></li>
+                <li><a href="/greater-toronto-area/">Toronto (GTA)</a></li>
+
+                <li><a href="/tucson/">Tucson</a></li>
+                <li><a href="/tulsa/">Tulsa</a></li>
+                <li><a href="/vancouver/">Vancouver</a></li>
+                <li><a href="/ventura-county/">Ventura County</a></li>
+                <li><a href="/victoria/">Victoria</a></li>
+                <li><a href="/washington-dc/">Washington DC</a></li>
+
+                <li><a href="/westchester-county/">Westchester County</a></li>
+                <li><a href="/wichita/">Wichita</a></li>
+                <li><a href="/wilmington-newark/">Wilmington-Newark</a></li>
+                <li><a href="/windsor/">Windsor</a></li>
+                <li><a href="/winnipeg/">Winnipeg</a></li>
+                <li><a href="/worcester/">Worcester</a></li>
+
+                <li><a href="/york-pa/">York, PA</a></li>
+                <li><a href="/youngstown/">Youngstown</a></li>
+              </ul>
+            </div>
+          </div>
+          </div><div class="box_bottom"></div></div></div>
+        </div>
+      </div>
+
+      <div id='footer'>
+        <div class='footer_wrapper_top'>
+          <div class='footer'>
+            <div class='top clearfix'>
+              <ul class='clearfix'>
+                <li>
+                  <dl>
+                    <dt class='bucket mobile'>
+                      <a href="/mobile"><span></span>Groupon Mobile</a>
+
+                    </dt>
+                    <dd>
+                      The Groupon Mobile family is like having a digital wallet for your Groupons.
+                      <a href="/mobile" title="Groupon Mobile">Go mobile</a>
+                    </dd>
+                  </dl>
+                </li>
+                <li>
+                  <dl>
+
+                    <dt class='bucket log'>
+                      <a href="/pages/affiliates"><span></span>Groupon Affiliates</a>
+                    </dt>
+                    <dd>
+                      Get paid by spreading the Groupon word with the
+                      <a href="/pages/affiliates" title="Groupon Affiliates">Groupon Affiliate Program</a>
+                    </dd>
+                  </dl>
+
+                </li>
+                <li>
+                  <dl>
+                    <dt class='bucket works'>
+                      <a href="http://www.grouponworks.com"><span></span>Groupon for Your Business</a>
+                    </dt>
+                    <dd>
+                      Learn how to get your business featured on Groupon and enjoy the benefits.
+                      <a href="http://www.grouponworks.com" title="GrouponWorks for your business">Learn more</a>
+
+                    </dd>
+                  </dl>
+                </li>
+                <li>
+                  <dl>
+                    <dt class='bucket gift'>
+                      <a href="https://www.groupon.com/gift_cards/new"><span></span>Give the Gift of Groupon</a>
+                    </dt>
+
+                    <dd>
+                      Show your love by giving Today's Deal or a Groupon Gift Card.
+                      <a href="https://www.groupon.com/gift_cards/new" title="Give the Gift of Groupon">Start giving</a>
+                    </dd>
+                  </dl>
+                </li>
+                <li>
+                  <div class='follow_us clearfix'>
+                    <dl>
+
+                      <dt>Follow Us:</dt>
+                      <dd><a href="http://www.twitter.com/grouponchicago" class="sprite twitter">Follow Groupon on Twitter</a></dd>
+                      <dd><a href="http://www.facebook.com/grouponchicago" class="sprite facebook">Follow Groupon on Facebook</a></dd>
+                      <dd><a href="http://feeds.feedburner.com/groupon" class="sprite rss">Follow Groupon RSS</a></dd>
+                      <dd><a href="/subscribe" class="sprite email">Sign Up for Groupon</a></dd>
+                    </dl>
+
+                  </div>
+                  <div class="tot_board"><p>Total dollars saved</p><p class="total">$1,565,452,322</p><p>Total Groupons bought</p><p class="total">37,901,979</p></div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class='footer_wrapper_bottom'>
+          <div class='footer'>
+            <div class='bottom clearfix'>
+              <ul>
+                <li>
+                  <dl>
+                    <dt>Company</dt>
+                    <dd><a href="/">Home</a></dd>
+
+                    <dd><a href="/contact-us">Contact Us</a></dd>
+                    <dd><a href="/about">About Groupon</a></dd>
+                    <dd><a href="/jobs">Jobs at Groupon</a></dd>
+                    <dd><a href="/press">Press</a></dd>
+                    <dd><a href="/legal">Legal</a></dd>
+                    <dd><a href="/privacy">Privacy Policy</a></dd>
+
+                  </dl>
+                </li>
+                <li>
+                  <dl>
+                    <dt>Learn More</dt>
+                    <dd><a href="/faq">FAQ</a></dd>
+                    <dd><a href="/pages/api">Developers / API</a></dd>
+
+                    <dd><a href="/pages/affiliates">Affiliate Program</a></dd>
+                    <dd><a href="/affiliate_widget">Affiliate Widget Builder</a></dd>
+                    <dd><a href="/pages/suggestions">Suggest a Business</a></dd>
+                    <dd><a href="/merchants/welcome">Run A Deal</a></dd>
+                    <dd><a href="/pages/corporate-gift-cards">Corporate Gifting</a></dd>
+                  </dl>
+
+                </li>
+                <li>
+                  <dl>
+                    <dt>Extra</dt>
+                    <dd><a href="http://www.groupon.com/blog">GrouBLOGpon</a></dd>
+                    <dd><a href="http://www.liveoffgroupon.com">Live Off Groupon</a></dd>
+                    <dd><a href="/mobile">Groupon Mobile</a></dd>
+
+                    <dd><a href="/widget">Groupon Referral Widget</a></dd>
+                    <dd><a href="/referral-ads">Groupon Referral Ads</a></dd>
+                    <dd><a href="http://www.meetup.com/groupon">Groupon Meetups</a></dd>
+                    <dd><a href="http://www.cafepress.com/groupon">Groupon Gear</a></dd>
+                    <dd><a href="http://www.flickr.com/photos/grouponcorporate/sets">Groupon Flickr</a></dd>
+                  </dl>
+
+                </li>
+              </ul>
+              <div id='footer_about'>
+                <h4>Unbeatable Deals for Local Adventures!</h4>
+                <p>
+                  Groupon is an easy way to get huge discounts while discovering fun activities in your city. Our daily deals consist of
+                  <a href="/deals/categories/restaurant" title="Groupon Restaurant Deals">restaurants</a>,
+                  <a href="/deals/categories/spa" title="Groupon Spa Deals">spas</a>,
+                  <a href="/deals/categories/massage" title="Groupon Massage Deals">massages</a>,
+                  <a href="/deals/categories/theater" title="Groupon Theater Deals">theaters</a>,
+                  <a href="/deals/categories/hotel" title="Groupon Hotel Deals">hotels</a>,
+                  and a whole lot more, in dozens of cities across the country.
+                </p>
+
+                <div class='copyright'>
+                  <p>&copy; 2011 Groupon, Inc. All Rights Reserved.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+    
+    
+      <!-- / JAVASCRIPTS load next -->
+    
+    </div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="http://assets1.grouponcdn.com/javascripts/dev/jquery.validate.js?TS-fa32B" type="text/javascript"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        Groupon.onCurrentUserReady = function(callback){
+          if (Groupon.currentUser !== undefined ) {
+            return callback();
+          };
+          $(document).bind('currentUserReady', function(){
+            return callback();
+          });
+        };
+        Groupon.onFacebookReady = function(callback){
+          if (Groupon.facebookReady !== undefined ) {
+            return callback();
+          };
+          $(document).bind('facebookReady', function(){
+            return callback();
+          });
+        };
+      //]]>
+    </script>
+    <script src="http://assets1.grouponcdn.com/assets/application.js?XatlLTVA" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+Groupon.Application.setDivision("chicago");
+
+//]]>
+</script>    <script type='text/javascript'>
+      //<![CDATA[
+        Groupon.onCurrentUserReady(function(){
+          if (Groupon.currentUser.isAuthenticated) {
+            Groupon.Application.setLoggedIn();
+          }
+          if (Groupon.currentUser.isAuthenticated && !Groupon.currentUser.subscribedToCurrentDivision) {
+            Groupon.Subscription.setAutoSubscribe(Groupon.currentUser.emailAddress);
+          }
+        });
+      //]]>
+    </script>
+    <!--[if IE 6]>
+      <script src="http://assets1.grouponcdn.com/assets/ie6.js?hVsiI_b8" type="text/javascript"></script>
+    <![endif]-->
+  
+  
+    <script src="http://assets1.grouponcdn.com/assets/facebook.js?K2umkWBs" type="text/javascript"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        Groupon.facebookApiKey = "ddb107c4c50eca3b5705114a7d573cb8";
+        Groupon.onCurrentUserReady(function() {
+          if(window.FB) {
+            Groupon.Facebook.init();
+            $("#fb-root").fire("facebook:loaded");
+            Groupon.facebookReady = true;
+            $.event.trigger('facebookReady');
+          } else {
+            window.fbAsyncInit = function() {
+              Groupon.Facebook.init();
+              $("#fb-root").fire("facebook:loaded");
+              Groupon.facebookReady = true;
+              $.event.trigger('facebookReady');
+            };
+          }
+          if (Groupon.currentUser.isAuthenticated && Groupon.currentUser.connectedWithFacebook) {
+            Groupon.Application.setConnectedWithFacebook();
+          };
+          if (Groupon.currentUser.isAuthenticated) {
+            $(".facebook_widget").remove();
+          };
+        });
+      //]]>
+    </script>
+    <script type='text/javascript'>
+      var gaJsHost = (("https:" == document.location.protocol) ? " https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type='text/javascript'>
+      try{
+      var pageTracker = _gat._getTracker("UA-1250257-1");
+      pageTracker._setDomainName(".groupon.com");
+      }catch(err){}
+    </script>
+
+    <script type='text/javascript'>
+      Groupon.Analytics.setDivisionCustomVar("chicago");
+    </script>
+    <script type='text/javascript'>
+      if(window.google_goal){
+      pageTracker._trackPageview(google_goal);
+      pageTracker._addTrans(
+      google_order_id,"",
+      google_amount,"","","","","");
+      pageTracker._addItem(
+      google_order_id,
+      google_sku,
+      google_product_name,
+      "Uncategorized",
+      google_unit_price,
+      google_quantity
+      );
+      pageTracker._trackTrans();
+      } else {
+      pageTracker._trackPageview();
+      }
+    </script>
+  
+    <div class='inserted_tracking_container' style='display: none'>
+      <script type="text/javascript">
+      var _sf_async_config={uid:410,domain:"groupon.com"};
+      (function(){
+      function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+      (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+      "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+      })();
+      </script>
+    </div>
+    <script type='text/javascript'>
+      //<![CDATA[
+        Event.onReady(function(ev){
+        
+      
+          if(typeof(Finch) != "undefined")
+            Finch.execute();
+        });
+      //]]>
+    </script>
+  </body>
+
+</html>
