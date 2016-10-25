@@ -1,4 +1,4 @@
-##### THIS PROJECT IS DEPRICATED
+##### *********** THIS PROJECT IS DEPRICATED ****************
 
 I'm not longer no longer using this, Groupon also sucks. Fork at your own will.
 
